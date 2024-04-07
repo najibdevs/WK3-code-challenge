@@ -8,7 +8,7 @@
 Week 3 code challenge, We were given this challenges:
 - Flatiron Movie Theater is open for business! You will be building out an application, Flatadango, that allows a user to purchase movie tickets from the theater.
 
-### Objecttive
+### Objective
 - Implement a mini web app to demonstrate your understanding of the three pillars of JavaScript, namely Handling Events, Manipulating the DOM, Communicating with the Server.
 
 ## Installation
